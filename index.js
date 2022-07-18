@@ -1,1 +1,3 @@
-console.log('This is a message...');
+function printMessage() {
+    console.log('Hello World!');
+}
