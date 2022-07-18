@@ -1,5 +1,5 @@
 function printMessage() {
-    conZsole.log('Hello World!');
+    console.log('Hello World!');
 }
 
 printMessage();
