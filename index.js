@@ -1,3 +1,1 @@
-function printMessage() {
-    console.log('Hello World!');
-}
+conZsole.log('Hello World!');
