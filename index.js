@@ -1,1 +1,5 @@
-conZsole.log('Hello World!');
+function printMessage() {
+    conZsole.log('Hello World!');
+}
+
+printMessage();
